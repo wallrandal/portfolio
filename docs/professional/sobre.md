@@ -10,7 +10,7 @@ Analista de sistemas com 5 anos de experiência em desenvolvimento web.
 
 Nascido em Jacareí, atualmente moro em São Paulo, estudo Letras e pratico Ioga todas as terças e quintas.
 
-## Careira Profissional
+## Carreira Profissional
 
 Trabalho como analista de sistemas na [Bionexo do Brasil](https://bionexo.com/), na solução de Follow Up para hospitais. O sistema é feito em PHP no framework Laravel 6.*, com mais de 90% de cobertura de testes unitários em sua regra de negócio. O front-end é feito em Vue, com componentes independentes e reutilizáveis.
 
