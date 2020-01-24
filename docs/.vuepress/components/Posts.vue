@@ -53,4 +53,13 @@ export default {
   display: flex;
   justify-content: center;
 }
+
+@media only screen and (max-width: 600px) {
+  .post-card {
+    width: 100%;
+    height: 150px;
+    margin: 0 auto;
+  }
+}
+
 </style>
