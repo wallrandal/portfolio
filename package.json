@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "dev": "vuepress dev",
+        "build": "vuepress build"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-register-components": "^1.2.0",
+        "vuepress-plugin-social-share": "^0.2.0"
+    },
+    "dependencies": {
+        "node-sass": "^4.13.1",
+        "sass-loader": "^8.0.2"
+    }
+}
