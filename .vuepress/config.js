@@ -1,5 +1,5 @@
 module.exports = {
-    base: "/<REPO>/",
+    base: '/',
     title: 'Wallace Randal',
     description: 'My awesome portfolio blog',
     themeConfig: {
