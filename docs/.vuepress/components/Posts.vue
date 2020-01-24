@@ -1,16 +1,14 @@
 <template>
-    <div class="post-container">
-    <router-link to="article1">
-      <router-link v-for="page in pages" :to="page.path">
-        <div class="post-card">
-          <img class="article-image" src="../public/images/image1.jpg" />
-          <div class="page-detail">
-            <div class="page-title">{{ page.title }}</div>
-            <!-- <div class="page-description">{{ page.frontmatter.description }}</div> -->
-            <!-- <div class="page-author">Author: {{ page.frontmatter.author }}</div> -->
-          </div>
+  <div class="post-container">
+    <router-link v-for="page in pages" :to="page.path">
+      <div class="post-card">
+        <img class="article-image" src="../public/images/image1.jpg" />
+        <div class="page-detail">
+          <div class="page-title">{{ page.title }}</div>
+          <!-- <div class="page-description">{{ page.frontmatter.description }}</div> -->
+          <!-- <div class="page-author">Author: {{ page.frontmatter.author }}</div> -->
         </div>
-      </router-link>
+      </div>
     </router-link>
   </div>
 </template>
