@@ -2,7 +2,7 @@
   <div class="post-container">
     <router-link v-for="page in pages" :to="page.path">
       <div class="post-card">
-        <img class="article-image" src="../public/images/image1.jpg" />
+        <!-- <img class="article-image" src="../public/images/image1.jpg" /> -->
         <div class="page-detail">
           <div class="page-title">{{ page.title }}</div>
           <!-- <div class="page-description">{{ page.frontmatter.description }}</div> -->
@@ -29,37 +29,6 @@ export default {
 }
 </script>
 <style scoped>
-.post-container {
-  display: flex;
-  flex-wrap: wrap;
-  width: 100%;
-}
-.post-card {
-  width: 600px;
-  height: 150px;
-  margin: 10px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-  padding: 10px;
-  display: flex;
-  align-items: center;
-}
-.article-image {
-  height: 100%;
-  margin-right: 10px
-}
-.description {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
 
-@media only screen and (max-width: 600px) {
-  .post-card {
-    width: 100%;
-    height: 150px;
-    margin: 0 auto;
-  }
-}
 
 </style>
