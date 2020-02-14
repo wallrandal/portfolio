@@ -11,6 +11,7 @@ module.exports = {
         sidebar: [
           '/professional/sobre',
           '/blog/letramento',
+          '/blog/politicas_publicas',
         ]
     },
     indentedSyntax: true,
