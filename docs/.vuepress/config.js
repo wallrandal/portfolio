@@ -9,10 +9,22 @@ module.exports = {
           { text: 'Blog', link: '/blog/' },
         ],
         sidebar: [
-          '/professional/sobre',
-          '/blog/letramento',
-          '/blog/politicas_publicas',
-        ]
+          {
+            title: 'Profissional',   // required
+            collapsable: true, // optional, defaults to true
+            sidebarDepth: 1,    // optional, defaults to 1
+            children: [
+              '/professional/sobre'
+            ]
+          },
+          {
+            title: 'Blog',
+            children: [ 
+              '/blog/letramento',
+              '/blog/politicas_publicas'
+            ]
+          }
+        ],
     },
     indentedSyntax: true,
     plugins: ['social-share'],
