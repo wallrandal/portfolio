@@ -1,7 +1,7 @@
 module.exports = {
     base: '/portfolio/',
     title: 'Wallace Randal',
-    description: 'My awesome portfolio blog',
+    description: 'Meu portfolio e Currículo',
     themeConfig: {
         nav: [
           { text: 'Home', link: '/', indentedSyntax: true },
@@ -27,6 +27,4 @@ module.exports = {
         ],
     },
     indentedSyntax: true,
-    plugins: ['social-share'],
-    
 }
