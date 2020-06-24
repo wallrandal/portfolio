@@ -18,6 +18,11 @@ Também desempenho o papel de membro do time de **endomarketing**, responsável 
 
 Fui professor de inglês na CEB - Centro de Estudos Bilíngue, e membro da AIESEC no Vale do Paraíba. Para mais informações sobre minha carreira profissional, acesse meu perfil no [Linkedin](https://www.linkedin.com/in/wallacerandal/).
 
+## Certificados
+- [Product Masterclass: How to Build Digital Products](../certificados/produto.pdf)
+- [Scrum Foundations Professional Certificate (SFPC)](../certificados/scrum.pdf)
+
+
 ## Portfólio
 
 Esta página foi feita com vue-cli e seu deploy foi feito com Travis CI.
