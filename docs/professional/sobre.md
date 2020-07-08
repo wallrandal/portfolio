@@ -21,6 +21,7 @@ Fui professor de inglês na CEB - Centro de Estudos Bilíngue, e membro da AIESE
 ## Certificados
 - [Product Masterclass: How to Build Digital Products](../certificados/produto.pdf)
 - [Scrum Foundations Professional Certificate (SFPC)](../certificados/scrum.pdf)
+- [Introdução aos conceitos de gênero (SFPC)](../certificados/certificado_fgv.pdf)
 
 
 ## Portfólio
