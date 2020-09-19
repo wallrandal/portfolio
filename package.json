@@ -6,12 +6,12 @@
         "docs:build": "vuepress build docs"
     },
     "devDependencies": {
-        "@vuepress/plugin-register-components": "^1.5.2",
+        "@vuepress/plugin-register-components": "^1.5.4",
         "vuepress-plugin-social-share": "^0.2.1"
     },
     "dependencies": {
         "node-sass": "^4.13.1",
         "sass-loader": "^8.0.2",
-        "vuepress": "^1.2.0"
+        "vuepress": "^1.5.4"
     }
 }
